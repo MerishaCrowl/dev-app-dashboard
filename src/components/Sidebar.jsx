@@ -64,9 +64,9 @@ const Sidebar = ({ activeView, setActiveView, taskCount }) => {
             </nav>
             <div className="sidebar-footer">
                 <div className="user-info">
-                    <div className="user-avatar">JD</div>
+                    <div className="user-avatar">GD</div>
                     <div className="user-details">
-                        <div className="user-name">Jane Developer</div>
+                        <div className="user-name">Grace Developer</div>
                         <div className="user-status">
                             <span className="status-dot"></span>
                             Online

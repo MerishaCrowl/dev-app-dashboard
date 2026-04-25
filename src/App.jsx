@@ -65,7 +65,7 @@ function App() {
                     marginBottom: 'var(--space-4)',
                     fontSize: '0.875rem'
                 }}>
-                    🎮 Demo Mode — Data is not persisted. Add Supabase credentials in .env to enable full functionality.
+                    Demo Mode — Data is not persisted. Add Supabase credentials in .env to enable full functionality.
                 </div>
             )}
             {activeView === 'dashboard' && (
